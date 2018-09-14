@@ -1,0 +1,31 @@
+﻿
+@{
+    ViewBag.Title = "Listado";
+}
+
+@using JugadoresCRUD.Models
+@model List<Jugador>
+
+<table>
+    <tr>
+        <td>Id</td>
+        <td>Nombre</td>
+        <td>Apellido</td>
+        <td>Posicion</td>
+        <td>Eliminar</td>
+        <td>Modificar</td>
+    </tr>
+    @foreach (Jugador j in  Model)
+    {
+        <tr>
+            <td>@j.Id</td>
+            <td>@j.Nombre</td>
+            <td>@j.Apellido</td>
+   
+            <td><a href="/Jugador/Eliminar/@j.Id"> Eliminar</a></td>
+            
+            <td>@Html.ActionLink("Modificar","FormEditar",new { Id = j.Id })</td>
+        </tr>
+    }
+</table>
+<button><a href="/Jugador/AgregarJugador/" > Agregar</a></button>

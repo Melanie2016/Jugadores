@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "AgregarJugador";
+}
+@using JugadoresCRUD.Models
+@model Jugador
+
+<h2>AgregarJugador</h2>
+
+<form action="/Jugador/Guardar" method="Post">
+
+    Id: @Html.TextBoxFor(j => j.Id)
+    <br />
+    Nombre: @Html.TextBoxFor(j => j.Nombre)
+    <br />
+    Apellido: @Html.TextBoxFor(j => j.Apellido)
+    <br />
+    Edad: @Html.TextBoxFor(j => j.Edad)
+    <br />
+    Posicion: @Html.TextBoxFor(j => j.Posicion)
+    <br />
+    <input type="submit" text="Guardar" />
+
+
+
+
+</form>
