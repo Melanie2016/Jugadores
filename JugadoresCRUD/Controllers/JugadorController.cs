@@ -24,6 +24,7 @@ namespace JugadoresCRUD.Controllers
             return View();
         }
 
+        /*
         public ActionResult Guardar(Jugador j)
         {
             serviceJugador.Agregar(j);
@@ -32,11 +33,68 @@ namespace JugadoresCRUD.Controllers
 
         }
 
+        */
+        [HttpPost]
+        public ActionResult AgregarJugador(Jugador j)
+        {
+            Jugador nuevoJ;
+            if(!String.IsNullOrEmpty (Request["GolesRecibidos"]))
+            {
+                nuevoJ = new Arquero();
+                nuevoJ.Posicion = "Arquero";
+                ((Arquero)nuevoJ).GolesRecibidos = Int32.Parse(Request["GolesRecibidos"]);
 
+            }
+            else { //Delantero
+
+                nuevoJ = new Delantero();
+                int GolesConvertidos = 0;
+                nuevoJ.Posicion = "Delantero";
+                Int32.TryParse(Request["GolesConvertidos"], out GolesConvertidos);
+
+                ((Delantero)nuevoJ).GolesConvertidos = GolesConvertidos;
+
+
+            }
+            nuevoJ.Nombre = j.Nombre;
+            nuevoJ.Edad = j.Edad;
+            nuevoJ.Apellido = j.Apellido;
+            nuevoJ.Id = j.Id;
+            
+            serviceJugador.Agregar(nuevoJ);
+
+            return RedirectToAction("Listado", "Jugador");
+
+        }
+
+
+        /*
+        [HttpPost]
+        public ActionResult AgregarJugador(Jugador jj)
+        {
+            Session["UltimoJugadorAgregado"] = jj;
+            serviceJugador.Agregar(jj);
+
+            return RedirectToAction("Listado", "Jugador");
+        }
+        */
+        /*
         public ActionResult Eliminar(int id)
         {
             var sj = new JugadorServicio();
             sj.Eliminar(id);
+
+            return RedirectToAction("Listado", "Jugador");
+        }*/
+
+        public ActionResult Eliminar(int id)
+        {
+            Jugador jj = serviceJugador.ObtenerPorId(id);
+
+            TempData["JugEliminado"] = jj;
+
+            serviceJugador.Eliminar(id);
+            
 
             return RedirectToAction("Listado", "Jugador");
         }

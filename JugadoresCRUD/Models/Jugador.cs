@@ -16,6 +16,17 @@ namespace JugadoresCRUD.Models
 
         public String Posicion { get; set; }
 
+        public int PremioBasico { get; set; }
+
+        public virtual int CalcularPremios()
+        {
+            // por partido jugado 
+            PremioBasico = 100;
+
+            return PremioBasico;
+        }
+
+
 
 
     }

@@ -14,15 +14,8 @@ namespace JugadoresCRUD.Models
         public void Agregar(Jugador j)
         {
 
-            Lista.Add(new Jugador()
-            {
-                Id = j.Id,
-                Nombre = j.Nombre,
-                Apellido = j.Apellido,
-                Edad = j.Edad,
-                Posicion = j.Posicion
-
-            });
+            Lista.Add(j);
+        
 
         }
 
@@ -65,5 +58,10 @@ namespace JugadoresCRUD.Models
 
 
         }
+
+
+
+        
+
     }
 }

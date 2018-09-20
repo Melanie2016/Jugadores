@@ -109,6 +109,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Arquero.cs" />
+    <Compile Include="Models\CalculadorPremios.cs" />
+    <Compile Include="Models\Delantero.cs" />
     <Compile Include="Models\Jugador.cs" />
     <Compile Include="Models\JugadorServicio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

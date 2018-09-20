@@ -1,31 +1,64 @@
 ﻿
 @{
     ViewBag.Title = "Listado";
+    // el as no tira exceptions el cast si , en este caso usamos as por que la primera vez q ingreso el tempdata no va a tener valor
+    Jugador jj = TempData["JugEliminado"] as Jugador;
+
+    Jugador js = Session["UltimoJugadorAgregado"] as Jugador;
+
+
 }
 
 @using JugadoresCRUD.Models
 @model List<Jugador>
 
-<table>
+<table border="1">
     <tr>
         <td>Id</td>
         <td>Nombre</td>
         <td>Apellido</td>
         <td>Posicion</td>
+        <td>Goles Recibidos / Goles Ejecutados</td>
         <td>Eliminar</td>
         <td>Modificar</td>
     </tr>
-    @foreach (Jugador j in  Model)
+    @foreach (Jugador j in Model)
     {
-        <tr>
-            <td>@j.Id</td>
-            <td>@j.Nombre</td>
-            <td>@j.Apellido</td>
-   
-            <td><a href="/Jugador/Eliminar/@j.Id"> Eliminar</a></td>
-            
-            <td>@Html.ActionLink("Modificar","FormEditar",new { Id = j.Id })</td>
-        </tr>
+    <tr>
+        <td>@j.Id</td>
+        <td>@j.Nombre</td>
+        <td>@j.Apellido</td>
+        <td>@j.Posicion</td>
+        <td>
+            @if (j.Posicion == "Arquero")
+            {
+                @Html.Raw(((Arquero)j).GolesRecibidos)
+            }
+            else if (j.Posicion == "Delantero")
+            {
+                @Html.Raw(((Delantero)j).GolesConvertidos)
+            }
+        </td>
+
+        <td><a href="/Jugador/Eliminar/@j.Id"> Eliminar</a></td>
+
+        <td>@Html.ActionLink("Modificar", "FormEditar", new { Id = j.Id })</td>
+    </tr>
     }
+
+
 </table>
-<button><a href="/Jugador/AgregarJugador/" > Agregar</a></button>
+
+@if (jj != null)
+{
+    <p> @jj.Nombre @jj.Apellido  fue eliminado</p>
+}
+
+@if (js != null)
+{
+    <p> @js.Nombre @js.Apellido  fue agregado</p>
+}
+
+
+
+<button><a href="/Jugador/AgregarJugador/"> Agregar</a></button>

@@ -7,7 +7,7 @@
 
 <h2>AgregarJugador</h2>
 
-<form action="/Jugador/Guardar" method="Post">
+<form action="/Jugador/AgregarJugador" method="Post">
 
     Id: @Html.TextBoxFor(j => j.Id)
     <br />
@@ -19,9 +19,18 @@
     <br />
     Posicion: @Html.TextBoxFor(j => j.Posicion)
     <br />
+    <!-- Agregar goles recibidos y ejecutados  -->
+
+    Goles Recibidos : <input type="number" name="GolesRecibidos" />
+
+    Goles Convertidos : <input type="number" name="GolesConvertidos" />
+
+
+
     <input type="submit" text="Guardar" />
 
 
 
 
 </form>
+ 
