@@ -1,0 +1,387 @@
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\JugadoresCRUD.dll.config
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\JugadoresCRUD.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\JugadoresCRUD.pdb
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csc.exe
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csc.exe.config
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csc.rsp
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csi.exe
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csi.exe.config
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csi.rsp
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Console.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\vbc.exe
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\vbc.exe.config
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\vbc.rsp
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Helpers.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Mvc.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Razor.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Razor.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Helpers.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Mvc.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Webpages.resources.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.csprojAssemblyReference.cache
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CoreCompileInputs.cache
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CopyComplete
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.dll
+C:\Users\melan\Desktop\PW 3 - REPO\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.pdb
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\JugadoresCRUD.dll.config
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\JugadoresCRUD.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\JugadoresCRUD.pdb
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csc.exe
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csc.exe.config
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csc.rsp
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csi.exe
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csi.exe.config
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\csi.rsp
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.AppContext.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Console.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\vbc.exe
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\vbc.exe.config
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\vbc.rsp
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Helpers.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Mvc.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Razor.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Razor.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Helpers.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\System.Web.Mvc.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Webpages.resources.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.csprojAssemblyReference.cache
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CoreCompileInputs.cache
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CopyComplete
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.dll
+C:\Pablo\UNLAM\Practicas\mvc-crud-jugadores\JugadoresCRUD\JugadoresCRUD\obj\Debug\JugadoresCRUD.pdb
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.dll.config
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.pdb
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\csc.exe
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\csc.exe.config
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\csc.rsp
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\csi.exe
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\csi.exe.config
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\csi.rsp
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Console.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.exe
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.exe.config
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.rsp
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Helpers.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Mvc.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Razor.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Razor.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Helpers.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\System.Web.Mvc.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.resources.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csprojAssemblyReference.cache
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CoreCompileInputs.cache
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CopyComplete
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.pdb
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\EntityFramework.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\EntityFramework.xml
+C:\Users\laboratorios\Desktop\JUGADORES\JugadoresCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.dll.config
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.pdb
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\csc.exe
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\csc.exe.config
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\csc.rsp
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\csi.exe
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\csi.exe.config
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\csi.rsp
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Console.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.exe
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.exe.config
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.rsp
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\EntityFramework.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Helpers.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Mvc.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Razor.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\EntityFramework.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Razor.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Helpers.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\System.Web.Mvc.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.resources.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csprojAssemblyReference.cache
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CoreCompileInputs.cache
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CopyComplete
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.dll
+C:\Users\laboratorios\Desktop\MEL\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.pdb
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.dll.config
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\JugadoresCRUD.pdb
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\csc.exe
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\csc.exe.config
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\csc.rsp
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\csi.exe
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\csi.exe.config
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\csi.rsp
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.AppContext.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Console.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Compression.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Claims.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.ValueTuple.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.exe
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.exe.config
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\vbc.rsp
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\EntityFramework.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\EntityFramework.SqlServer.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Helpers.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Mvc.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Razor.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\EntityFramework.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\EntityFramework.SqlServer.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Razor.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Helpers.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\System.Web.Mvc.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\es\System.Web.Razor.resources.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csprojAssemblyReference.cache
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.csproj.CopyComplete
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.dll
+C:\Users\Cris_Tech\Desktop\MEL clase 24 de octubre\JUGADORES\JugadoresCRUD\obj\Debug\JugadoresCRUD.pdb

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "FormEditar";
+}
+
+
+@model jugador
+
+<h2>Modificando Jugador </h2>
+
+<form action="/Jugador/Modificar" method="Post">
+
+    Id: @Html.HiddenFor(j => j.id)
+    <br />
+    Nombre: @Html.TextBoxFor(j => j.nombre)
+    <br />
+    Apellido: @Html.TextBoxFor(j => j.apellido)
+    <br />
+    Edad: @Html.TextBoxFor(j => j.edad)
+    <br />
+    Posicion: @Html.TextBoxFor(j => j.posicion)
+    <br />
+    <input type="submit" text="Modificar" />
+
+</form>

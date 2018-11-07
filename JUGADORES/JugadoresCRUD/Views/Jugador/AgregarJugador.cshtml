@@ -1,0 +1,40 @@
+﻿
+@{
+    ViewBag.Title = "AgregarJugador";
+}
+
+
+@model jugador
+
+<h2>AgregarJugador</h2>
+
+<form action="/Jugador/AgregarJugador" method="Post">
+
+    Id: @Html.TextBoxFor(j => j.id)
+  <br />
+    Nombre: @Html.TextBoxFor(j => j.nombre)
+    <br />
+    Apellido: @Html.TextBoxFor(j => j.apellido)
+    <br />
+    Edad: @Html.TextBoxFor(j => j.edad)
+    <br />
+    Posicion: @Html.TextBoxFor(j => j.posicion)
+    <br />
+ 
+    <select id="IdEquipo" name="IdEquipo">
+        <option value="1">Seleccione</option>
+        <option value="0">Otros</option>
+        @foreach(equipo item in ((List<equipo>)ViewBag.ListaEquipo))
+        {
+            <option value="@item.id">@item.nombre</option>      
+        }
+    </select>
+    <br /> 
+    Equipo: @Html.TextBoxFor(o => o.equipo.nombre, new { @Value=""})
+
+    <input type="submit" text="Guardar" />
+
+
+
+
+</form>
